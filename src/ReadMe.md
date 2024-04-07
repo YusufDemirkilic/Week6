@@ -1,0 +1,1 @@
+Soru: JDBC kullanarak bir MySQL veritabanına bağlanan ve belirli bir tablodan veri çeken ve çekilen veriyi ekrana yazdıran bir Java uygulaması yazınız. Veritabanında işlem yaparak "employees" adında bir tablo ve her bir çalışanın "id", "name", "position" ve "salary" olmak üzere 4 sütun oluşturun. Manuel olarak veri tabanındaki employees tablosuna en az 5 tane employee kaydedin.
